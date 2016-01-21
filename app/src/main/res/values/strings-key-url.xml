@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="baidu_ak">dm7Ef8a0RPXjvrr1NuAGL5U3</string>
+    <string name="app_id">8TO07NV9ILM1AFUYCW35KJRE4HBGPQ2X6DZS</string>
+   	<string name="url_add_map_point">http://115.29.43.200:8080/PointsMap/addMapPoint</string>
+   	<string name="easemob_appkey">xiaoqunti#culturemap</string>
+
+</resources>
